@@ -5,3 +5,7 @@ def add(x,y){
 def multiplie(x,y){
 	echo "The mult of ${x} and {y} is ${x*Y}"
 }
+
+def call(){
+	"Welcome to the calcultor"
+}
