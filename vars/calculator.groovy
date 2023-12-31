@@ -7,5 +7,5 @@ def multiplie(x,y){
 }
 
 def call(){
-	"Welcome to the calcultor"
+	echo "Welcome to the calcultor"
 }
