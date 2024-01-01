@@ -1,3 +1,3 @@
-def call (){
+def call (repo){
 	sh "git clone ${repo}"
 }
